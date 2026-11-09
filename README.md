@@ -237,7 +237,3 @@ subject to the Geant4 Software License:
 
 This product includes software developed by Members of the Geant4
 Collaboration (<http://cern.ch/geant4>).
-
-Before publishing this repository, add the license selected by the copyright
-holder for the original G4XRTube components and retain all applicable upstream
-notices.
